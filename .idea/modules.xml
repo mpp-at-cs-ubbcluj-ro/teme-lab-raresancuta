@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DBModule.iml" filepath="$PROJECT_DIR$/DBModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DBModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DBModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DBModule.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartModule.iml" filepath="$PROJECT_DIR$/StartModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartModule.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartModule.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module/module.iml" filepath="$PROJECT_DIR$/module/module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-raresancuta.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-raresancuta.iml" />
+    </modules>
+  </component>
+</project>

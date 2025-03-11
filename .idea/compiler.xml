@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="DBModule" target="22" />
+      <module name="DBModule.main" target="22" />
+      <module name="DBModule.test" target="22" />
+      <module name="StartModule" target="22" />
+      <module name="StartModule.main" target="22" />
+      <module name="StartModule.test" target="22" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
